@@ -19,5 +19,5 @@ Lovely about technology, collaborating to solve problems and improve people's li
 <br>
 
 <div> 
-  ![Snake animation]()
+  ![Snake animation](https://github.com/txeira/txeira/blob/main/Fabiano-snake.svg)
 </div>
