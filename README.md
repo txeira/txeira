@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Fabiano
 
-<!--
-**txeira/txeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+Hi there! I seek daily to get knowledge about technology, immersing myself in the world of development and innovation. I'm currently working at Instituto Atlântico as a Quality Assurance.
+##
 
-Here are some ideas to get you started:
+**Technologies:**
+Lovely about technology, collaborating to solve problems and improve people's lives through technology, student of the Python. :rocket: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="FJAVA" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="FSelenium" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="FSelenium" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="FSelenium" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+</div>
+<br>
+
+<div> 
+  ![Snake animation]()
+</div>
