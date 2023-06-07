@@ -35,10 +35,7 @@ Lovely about technology, collaborating to solve problems and improve people's li
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=txeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- 
 <br>
 <br>
-<div> 
-<br>
-  ![Snake animation](https://github.com/txeira/txeira/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/txeira/txeira/blob/output/github-contribution-grid-snake.svg)
+
