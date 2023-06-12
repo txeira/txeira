@@ -37,5 +37,6 @@ Lovely about technology, collaborating to solve problems and improve people's li
 
 <br>
 <br>
-![Snake animation](https://github.com/txeira/txeira/blob/output/github-contribution-grid-snake.svg)
+ 
+![Snake](https://github.com/txeira/txeira/blob/output/github-contribution-grid-snake.svg)
 
